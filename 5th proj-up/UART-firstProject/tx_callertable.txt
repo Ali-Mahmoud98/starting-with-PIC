@@ -1,0 +1,6 @@
+main
+	UART1_Init
+	rand
+		srand
+		Mul_32x32_U
+	UART1_Write

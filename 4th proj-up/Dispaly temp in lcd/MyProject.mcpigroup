@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\2ed proi-uP\MyProject.mcppi
+Project1=..\3ed proj-up\MyProject.mcppi
+Project2=MyProject.mcppi
+[ActiveProject]
+Index=2
